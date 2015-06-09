@@ -2,14 +2,14 @@
   "name": "rui-base",
   "version": "1.0.0",
   "description": "Rain front-end team reset style",
-  "homepage": "https://github.com/rainteam/ui-base",
+  "homepage": "https://github.com/rainui/ui-base",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rainteam/ui-base"
+    "url": "https://github.com/rainui/ui-base"
   },
   "bugs": {
-    "url": "https://github.com/rainteam/ui-base/issues"
+    "url": "https://github.com/rainui/ui-base/issues"
   },
   "license": "MIT"
 }
