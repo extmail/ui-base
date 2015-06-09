@@ -16,7 +16,6 @@
 - `.b-left` `.b-center` `.b-right` `.b-justify` 文字左/居中/右/两端对齐
 - `.b-text-overflow` 单行文字溢出显示省略号，需设定宽度
 - `.b-rmb` 人民币符号
-- `.b-webkit-adjust` 解决 chrome 下字体过小的问题
 
 
 ---

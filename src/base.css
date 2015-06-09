@@ -174,9 +174,3 @@ body .b-hide {
     font-style: normal;
     padding-right: 4px;
 }
-
-
-/* chrome 下字体过小的问题 */
-.b-webkit-adjust {
-    -webkit-text-size-adjust: none;
-}
