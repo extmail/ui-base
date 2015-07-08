@@ -1,15 +1,15 @@
 {
-  "name": "rui-base",
+  "name": "eui-base",
   "version": "1.0.0",
-  "description": "Rain front-end team reset style",
+  "description": "Extmail front-end team reset style",
   "homepage": "https://github.com/rainui/ui-base",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rainui/ui-base"
+    "url": "https://github.com/extmail/ui-base"
   },
   "bugs": {
-    "url": "https://github.com/rainui/ui-base/issues"
+    "url": "https://github.com/extmail/ui-base/issues"
   },
   "license": "MIT"
 }
